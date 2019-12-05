@@ -1045,3 +1045,29 @@ tt, code, kbd, samp, .params > div > code, .params > div > em, .params > div > .
 
 .scrollbar-inner > .scroll-element.scroll-x.scroll-scrolly_visible .scroll-element_size { left: -12px; }
 .scrollbar-inner > .scroll-element.scroll-y.scroll-scrollx_visible .scroll-element_size { top: -12px; }
+
+/* Tutorial Header */
+#main header {
+    margin-bottom: 20px;
+}
+
+#main header h2 {
+    display: none;
+}
+
+#main header ul {
+    display: block;
+    float: left;
+    width: 100%;
+}
+
+#main header ul li {
+    display: block;
+    float: left;
+    width: 100%;
+}
+
+#main header ul li a {
+    display: block;
+    float: left;
+}
